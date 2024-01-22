@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Pierre (@PierreDabrunst-SE)
+- 🌱 I’m currently learning Java, JavaScript, PHP, HTML
+- 📫 How to reach me:
+   - Discord: .tmkc
+   - Github: @PierreDabrunst-SE
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm just a regular guy with no life what so ever
